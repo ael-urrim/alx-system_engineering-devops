@@ -1,1 +1,1 @@
-Shell basic readme file
+A script that prints the absolute path name of the current working directory.
